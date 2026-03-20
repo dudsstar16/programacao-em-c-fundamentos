@@ -90,7 +90,7 @@ Estruturas de Repetição
 for
 Cfor (int i = 0; i < 5; i++) {    printf("%d ", i);}Mostrar mais linhas
 
-##Resumo Final
+## Resumo Final
 
 Aritméticos → fazem contas
 Relacionais → comparam valores
