@@ -1,4 +1,4 @@
-Markdown# 📘 Fundamentos da Linguagem C## Declaração de VariáveisA declaração de variáveis em C segue o formato:```ctipo nome;Mostrar mais linhas
+# 📘 Fundamentos da Linguagem C## Declaração de VariáveisA declaração de variáveis em C segue o formato:```ctipo nome;Mostrar mais linhas
 
 Exemplos:
 Cint x;          // número inteiroint y = 2;      // inteiro inicializadochar a, b;      // caracteresfloat j = 1.0;  // número decimalMostrar mais linhas
